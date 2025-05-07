@@ -9,7 +9,7 @@ int findSum(int n)
 // Driver code
 int main()
 {
-  int n = 5;
+  int n = 10;
   cout << findSum(n);
   return 0;
 } 

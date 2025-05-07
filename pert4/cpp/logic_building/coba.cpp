@@ -18,6 +18,7 @@ void bagi (int a, int b) {
     cout << "Hasil Bagi: " << a / b << endl;
 }
 
+//fungsi utama
 int main (){
     int a, b;
     cout << "Masukkan Angka: " << endl;
